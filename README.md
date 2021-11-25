@@ -1,4 +1,4 @@
-# app_badge_generator
+# App Badge Generator
 
 A new Flutter project.
 
