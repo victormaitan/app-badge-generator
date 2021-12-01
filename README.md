@@ -35,7 +35,6 @@ Link para o app na loja: <br>
 <span>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=ffcb2c" />
     <img src="https://img.shields.io/badge/-Android-1f8737?style=for-the-badge&logo=Android&logoColor=ffffff" />
 </span>
 
